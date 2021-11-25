@@ -123,7 +123,7 @@ int main( int nargs, char* argv[] )
     
 
     std::cout << "A.u = " << resultat << std::endl;
-    */
+    
     MPI_Finalize();
     return EXIT_SUCCESS;
 }
